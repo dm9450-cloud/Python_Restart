@@ -1,0 +1,6 @@
+print("Hello World")
+print("My name is Dipanshu.")
+print("My age is 24.")
+print("Dipanshu is my name.", "My age is 24.")
+print(24)
+print(23+35)

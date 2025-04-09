@@ -1,0 +1,6 @@
+print("a" in "abc")
+print("ab" in "abc")
+print("ac" in "abc")
+print("" in "abc")
+print("jap" not in "japan")
+print("Ab" in "abc")
